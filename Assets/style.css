@@ -11,4 +11,14 @@
   --text-color-light: #a6a6a6;
   --body-color: #fbfefd;
   --container-color: #ffffff;
+
+  /* font and typography */
+  --body-font: ;
+  --biggest-font-size: ;
+  --h1-font-size: ;
+  --h2-font-size: ;
+  --h3-font-size: ;
+  --normal-font-size: ;
+  --small-font-size: ;
+  --smaller-font-size: ;
 }
